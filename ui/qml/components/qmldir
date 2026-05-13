@@ -1,0 +1,11 @@
+module components
+singleton Theme 1.0 Theme.qml
+Card 1.0 Card.qml
+ToggleOption 1.0 ToggleOption.qml
+SliderOption 1.0 SliderOption.qml
+SpinOption 1.0 SpinOption.qml
+ComboOption 1.0 ComboOption.qml
+KeyBindOption 1.0 KeyBindOption.qml
+ActionButton 1.0 ActionButton.qml
+StatusBadge 1.0 StatusBadge.qml
+ToggleSwitch 1.0 ToggleSwitch.qml

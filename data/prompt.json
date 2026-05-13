@@ -1,0 +1,14 @@
+{
+  "task": "Sliding Puzzle Coherence Analysis",
+  "instructions": "Analyze the 3x3 image grid (1-9, top-left start). The goal is to identify the SINGLE square that most prominently and unambiguously breaks the overall visual coherence and contextual continuity of the main subject (e.g., character, object) AND its integrated background. Focus on blatant mismatches in theme, color palette, lighting, texture, and the seamless flow of elements. Prioritize pieces that disrupt the 'expected continuation' of adjacent squares' content. Respond ONLY with the number of the most discordant square.",
+  "input_format": "Image File (3x3 grid)",
+  "output_format": "Single Integer (1-9)",
+  "analysis_focus": [
+    "Blatant Thematic Mismatch",
+    "Severe Background/Foreground Discontinuity",
+    "Inconsistent Lighting or Color Palette",
+    "Disruption of Expected Element Flow",
+    "Obvious 'Out-of-Place' Element"
+  ],
+  "response_template": "Return ONLY the integer (1-9)."
+}

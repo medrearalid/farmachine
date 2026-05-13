@@ -1,0 +1,27 @@
+# Core automation libraries
+pyautogui>=0.9.54
+pydirectinput>=1.0.4
+keyboard>=0.13.5
+
+# Image processing and computer vision
+opencv-python>=4.8.0
+numpy>=1.24.0
+pillow>=10.0.0
+mss>=10.1.0  # Python-MSS: Stable, cross-platform screen capture
+ultralytics>=8.4.39
+torch>=2.11.0
+
+# GUI
+PySide6>=6.11.0
+
+# Window management
+pywin32>=306  # Windows API
+
+# AI/API libraries
+google-genai==1.73.1
+roboflow>=1.3.3
+requests>=2.31.0
+python-dotenv>=1.0.0
+
+# Testing
+pytest>=8.0.0

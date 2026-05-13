@@ -1,0 +1,185 @@
+{
+    "client_1": {
+        "general": {
+            "auto_attack": true,
+            "auto_loot": false,
+            "auto_revive": true,
+            "captcha_solver": true,
+            "revive_delay": 1,
+            "combat_timeout": 120,
+            "scan_radius": 500,
+            "anti_stuck": true,
+            "debug_mode": false,
+            "miss_timeout": 2,
+            "movement_timeout": 8,
+            "verify_timeout": 3
+        },
+        "vision": {
+            "model_path": "models/best.pt",
+            "fallback_model": "yolo11n.pt",
+            "confidence_threshold": 0.5,
+            "yolo_confidence": 0.9,
+            "mask_regions": []
+        },
+        "skills": {
+            "use_skills": true,
+            "check_interval": 7,
+            "active_profile": "saman_ejderha",
+            "profile_bindings": {
+                "savasci_bedensel": {
+                    "skill_1": "aura.png",
+                    "skill_2": "berserk.png"
+                },
+                "saman_ejderha": {
+                    "skill_1": "ejderha_yardimi.png",
+                    "skill_2": "kutsama.png",
+                    "skill_3": "yansitma.png"
+                },
+                "saman_iyilestirme": {
+                    "skill_1": "hiz.png",
+                    "skill_2": "yuksek_saldiri.png"
+                }
+            },
+            "skill_1": {
+                "key": "3",
+                "cooldown": 63,
+                "enabled": true
+            },
+            "skill_2": {
+                "key": "2",
+                "cooldown": 180,
+                "enabled": true
+            },
+            "skill_3": {
+                "key": "4",
+                "cooldown": 20,
+                "enabled": true
+            },
+            "buff_1": {
+                "key": "f3",
+                "cooldown": 200,
+                "enabled": false
+            },
+            "buff_2": {
+                "key": "f4",
+                "cooldown": 200,
+                "enabled": false
+            }
+        },
+        "system": {
+            "last_hwnd": 0,
+            "last_pid": 0
+        },
+        "combat": {
+            "selection_mode": "Nearest",
+            "selection_mode_internal": "nearest",
+            "strafe_start_delay": 2,
+            "strafe_interval": 1,
+            "multi_target_queue_enabled": true,
+            "multi_target_queue_size": 5,
+            "deferred_queue_click_delay_sec": 2,
+            "reachable_distance_px": 420
+        },
+        "quest": {
+            "enabled": false,
+            "check_interval": 3
+        }
+    },
+    "client_2": {
+        "general": {
+            "auto_attack": true,
+            "auto_loot": false,
+            "auto_revive": true,
+            "captcha_solver": true,
+            "revive_delay": 1,
+            "combat_timeout": 120,
+            "scan_radius": 500,
+            "anti_stuck": true,
+            "debug_mode": false,
+            "miss_timeout": 1,
+            "movement_timeout": 8,
+            "verify_timeout": 2
+        },
+        "vision": {
+            "model_path": "models/best.pt",
+            "fallback_model": "yolo11n.pt",
+            "confidence_threshold": 0.5,
+            "yolo_confidence": 0.9,
+            "mask_regions": []
+        },
+        "skills": {
+            "use_skills": true,
+            "check_interval": 7,
+            "active_profile": "savasci_bedensel",
+            "profile_bindings": {
+                "savasci_bedensel": {
+                    "skill_1": "aura.png",
+                    "skill_2": "berserk.png"
+                },
+                "saman_ejderha": {
+                    "skill_1": "ejderha_yardimi.png",
+                    "skill_2": "kutsama.png",
+                    "skill_3": "yansitma.png"
+                },
+                "saman_iyilestirme": {
+                    "skill_1": "hiz.png",
+                    "skill_2": "yuksek_saldiri.png"
+                }
+            },
+            "skill_1": {
+                "key": "4",
+                "cooldown": 60,
+                "enabled": true
+            },
+            "skill_2": {
+                "key": "3",
+                "cooldown": 180,
+                "enabled": true
+            },
+            "skill_3": {
+                "key": "3",
+                "cooldown": 20,
+                "enabled": false
+            },
+            "buff_1": {
+                "key": "f3",
+                "cooldown": 200,
+                "enabled": false
+            },
+            "buff_2": {
+                "key": "f4",
+                "cooldown": 200,
+                "enabled": false
+            }
+        },
+        "system": {
+            "last_hwnd": 0,
+            "last_pid": 0
+        },
+        "combat": {
+            "selection_mode": "Nearest",
+            "selection_mode_internal": "nearest",
+            "strafe_start_delay": 2,
+            "strafe_interval": 1,
+            "multi_target_queue_enabled": true,
+            "multi_target_queue_size": 5,
+            "deferred_queue_click_delay_sec": 2,
+            "reachable_distance_px": 420
+        },
+        "quest": {
+            "enabled": false,
+            "check_interval": 3
+        }
+    },
+    "global": {
+        "mouse_id": 0,
+        "always_on_top": true,
+        "show_all_windows": false,
+        "active_config_client": 0,
+        "captcha": {
+            "enabled": true,
+            "api_key": "YOUR_GEMINI_API_KEY_HERE",
+            "selected_model": "gemini-2.5-flash-lite"
+        }
+    }
+}

@@ -1,0 +1,55 @@
+# ── Python ──────────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+
+# ── Virtual environments ─────────────────────────────────────────────────────
+venv/
+env/
+.venv/
+
+# ── Sensitive config (contains API keys) ────────────────────────────────────
+config.json
+
+# ── User-specific data ───────────────────────────────────────────────────────
+data/mouse_id.txt
+desktop.ini
+
+# ── Training datasets (large) ───────────────────────────────────────────────
+dataset/
+datasets/
+v2-1/
+
+# ── Training outputs (large) ────────────────────────────────────────────────
+runs/
+
+# ── Development-only tools ──────────────────────────────────────────────────
+tools/
+
+# ── Tests ───────────────────────────────────────────────────────────────────
+tests/
+
+# ── Base/training-only model weights (not needed at runtime) ────────────────
+yolo11n.pt
+yolo26n.pt
+
+# ── Temporary files ──────────────────────────────────────────────────────────
+temp/
+temp_debug/
+*.tmp
+*.log
+
+# ── Dev workflow docs ────────────────────────────────────────────────────────
+AGENTS.md
+.github/
+
+# ── OS / Editor ──────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/
