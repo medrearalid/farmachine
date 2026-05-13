@@ -327,4 +327,28 @@ SEARCHING → SOLVING_CAPTCHA → SEARCHING
 
 ## Lisans
 
-Bu proje özel kullanım için geliştirilmiştir. Herhangi bir lisans uygulanmamıştır.
+Telif Hakkı (c) 2026 [medrearalid]
+Tüm hakları saklıdır.
+
+Kaynak kodu, belgeler ve ilişkili dosyalar (bundan böyle "Yazılım" olarak anılacaktır) dahil olmak üzere bu yazılım, telif hakkı sahibinin (geliştiricinin) özel mülkiyetindedir. 
+
+Bu Yazılıma erişerek, kodları derleyerek veya kullanarak aşağıdaki hüküm ve koşulları peşinen ve açıkça kabul etmiş sayılırsınız:
+
+1. SADECE KİŞİSEL KULLANIM
+Bu Yazılımı yalnızca kişisel, özel ve eğitim/araştırma amaçlı kullanmak üzere sınırlı, münhasır olmayan, devredilemez ve iptal edilebilir bir lisans hakkına sahipsiniz.
+
+2. KESİNLİKLE TİCARİ KULLANIM YASAĞI
+Bu Yazılımı, tamamen veya kısmen HİÇBİR ticari amaçla kullanamazsınız. Bu kısıtlama, bunlarla sınırlı olmamak üzere aşağıdakileri içerir:
+- Yazılımı veya derlenmiş halini satmak, kiralamak veya üzerinden abonelik ücreti talep etmek.
+- Yazılımı başka bir ticari ürünün veya hizmetin parçası haline getirmek.
+
+3. YENİDEN DAĞITIM VEYA PAYLAŞIM YASAĞI
+Telif hakkı sahibinin önceden yazılı ve açık izni olmaksızın; Yazılımı (kaynak kodunu veya derlenmiş .exe/.dll dosyalarını) değiştirilmiş veya orijinal haliyle herhangi bir genel veya özel platformda (forumlar, Discord sunucuları, diğer GitHub repoları vb.) KOPYALAYAMAZ, DAĞITAMAZ, PAYLAŞAMAZ VEYA BARINDIRAMAZSINIZ.
+
+4. DAĞITIM AMACIYLA TÜRETİLMİŞ ESER YASAĞI
+Yazılım kodlarını yalnızca kendi bilgisayarınızdaki kişisel kullanımınız için değiştirebilir ve geliştirebilirsiniz. Ancak, bu Yazılımın kodlarına dayanarak oluşturduğunuz veya modifiye ettiğiniz yeni çalışmaları (sürümleri/çatallamaları) başkalarıyla PAYLAŞAMAZ, SATAMAZ veya DAĞITAMAZSINIZ.
+
+SORUMLULUK REDDİ BEYANI (DISCLAIMER)
+YAZILIM, TİCARİ ELVERİŞLİLİK VEYA BELİRLİ BİR AMACA UYGUNLUK GARANTİLERİ DAHİL ANCAK BUNLARLA SINIRLI OLMAMAK ÜZERE, AÇIK VEYA ZIMNİ HİÇBİR GARANTİ OLMAKSIZIN "OLDUĞU GİBİ" SAĞLANMAKTADIR. 
+
+HİÇBİR DURUMDA YAZAR VEYA TELİF HAKKI SAHİBİ; YAZILIMIN KULLANIMINDAN VEYA YAZILIMLA BAĞLANTILI OLARAK ORTAYA ÇIKAN HİÇBİR ZARARDAN, BİLGİSAYAR ARIZALARINDAN, OYUN HESABI YASAKLAMALARINDAN (BAN) VEYA DİĞER YÜKÜMLÜLÜKLERDEN SORUMLU TUTULAMAZ. TÜM RİSK KULLANICIYA AİTTİR.
